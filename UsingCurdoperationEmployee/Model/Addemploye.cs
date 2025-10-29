@@ -6,5 +6,7 @@
         public required string EmpEmail { get; set; }
         public required string Empphone { get; set; }
         public decimal EmpSal { get; set; }
+
+        public decimal EmpSal2 { get; set; }
     }
 }
